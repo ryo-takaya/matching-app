@@ -12,7 +12,7 @@
     "axios": "^0.19.2",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase-tools": "^8.4.2",
     "global": "^4.4.0",
     "heroku": "^7.42.1",
